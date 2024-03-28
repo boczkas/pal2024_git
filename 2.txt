@@ -1,2 +1,4 @@
 test zmian w GIT
 lubie placki
+a ja lubię ciastka
+kolejna wersja tego samego pliku

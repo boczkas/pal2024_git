@@ -1,2 +1,3 @@
 test zmian w GIT
 a ja lubię ciastka
+kolejna wersja tego samego pliku
